@@ -19,5 +19,5 @@ DN_task1_vX.py - version X of the deterministic variant.
 1) were picked only photos from 'real_plates'
 2) points of longer sides were placed by hands  
 3) linear regression was used to get lines  
-4) label - angle is average of angles of two lines from above  
+4) label - angle is the average of angles of two lines from above  
 5) **Accuracy**: 0.95; **MSE**: 0.18
